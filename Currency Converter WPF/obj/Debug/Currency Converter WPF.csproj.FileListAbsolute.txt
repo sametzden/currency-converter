@@ -1,0 +1,20 @@
+C:\Users\samet\source\repos\Currency Converter WPF\Currency Converter WPF\bin\Debug\Currency Converter WPF.exe.config
+C:\Users\samet\source\repos\Currency Converter WPF\Currency Converter WPF\bin\Debug\Currency Converter WPF.exe
+C:\Users\samet\source\repos\Currency Converter WPF\Currency Converter WPF\bin\Debug\Currency Converter WPF.pdb
+C:\Users\samet\source\repos\Currency Converter WPF\Currency Converter WPF\obj\Debug\Currency Converter WPF.csproj.AssemblyReference.cache
+C:\Users\samet\source\repos\Currency Converter WPF\Currency Converter WPF\obj\Debug\Currency Converter WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\samet\source\repos\Currency Converter WPF\Currency Converter WPF\obj\Debug\MainWindow.g.cs
+C:\Users\samet\source\repos\Currency Converter WPF\Currency Converter WPF\obj\Debug\App.g.cs
+C:\Users\samet\source\repos\Currency Converter WPF\Currency Converter WPF\obj\Debug\Currency Converter WPF_MarkupCompile.cache
+C:\Users\samet\source\repos\Currency Converter WPF\Currency Converter WPF\obj\Debug\Currency Converter WPF_MarkupCompile.lref
+C:\Users\samet\source\repos\Currency Converter WPF\Currency Converter WPF\obj\Debug\MainWindow.baml
+C:\Users\samet\source\repos\Currency Converter WPF\Currency Converter WPF\obj\Debug\Currency Converter WPF.g.resources
+C:\Users\samet\source\repos\Currency Converter WPF\Currency Converter WPF\obj\Debug\Currency_Converter_WPF.Properties.Resources.resources
+C:\Users\samet\source\repos\Currency Converter WPF\Currency Converter WPF\obj\Debug\Currency Converter WPF.csproj.GenerateResource.cache
+C:\Users\samet\source\repos\Currency Converter WPF\Currency Converter WPF\obj\Debug\Currency Converter WPF.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\Currency Converter WPF\Currency Converter WPF\obj\Debug\Currency Converter WPF.exe
+C:\Users\samet\source\repos\Currency Converter WPF\Currency Converter WPF\obj\Debug\Currency Converter WPF.pdb
+C:\Users\samet\source\repos\Currency Converter WPF\Currency Converter WPF\bin\Debug\FontAwesome.WPF.dll
+C:\Users\samet\source\repos\Currency Converter WPF\Currency Converter WPF\bin\Debug\FontAwesome.WPF.xml
+C:\Users\samet\source\repos\Currency Converter WPF\Currency Converter WPF\obj\Debug\App.baml
+C:\Users\samet\source\repos\Currency Converter WPF\Currency Converter WPF\obj\Debug\Currency Converter WPF.csproj.CopyComplete
